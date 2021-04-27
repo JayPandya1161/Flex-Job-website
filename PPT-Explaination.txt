@@ -1,0 +1,35 @@
+Hello mam, My id is 19DCS074.
+I am here presenting you our website named FLEXJOB.
+-- 2nd slide--
+On the 2nd slide, we can see the List of contents we are going to see in this presentation.
+--3rd slide--
+So first we are going to see which things are required to do the job.
+This is a Web development project contain HTML, CSS, JAVASCRIPT for the front-end and PHP AND MySQL for the back-end. 
+-- 4th slide--
+Now here comes the Objective of the project means what inspires us to make a project like this.
+So this website is introduced as a job recruitment site, and here we discussed what is the main objectives of the project which are given below.
+This is work as a freelancer website.
+for making it more interactive we use javascript and jquery modules in the program.
+for giving it a more perfect design and all we use CSS and bootstrap elements in the program.
+for all data storing we used PHP and MySQL for making it easily performable.
+--5th slide--
+Here we see the project category which we discussed right now...it is a web development project which's main theme is to provide job like which type of work you want from the programer and person has to select the specific job they want to program and interact with the company.
+--next--
+Now my friend Mayank jadav will explain to you more.
+
+--js--
+Here we Commonly use JavaScript for image manipulation, form validation, and dynamic changes of content. 
+Accessibility is a major issue in any software development. JavaScript can make your website more accessible if you use it wisely.
+It's like the brain of the website...
+every dynamic change is made by javascript...like button and their click events, an event which takes place in a container of forms, and animation-related changes are made by javascript.
+
+--jQuery--
+Its js library design to simplify DOM manipulation, CSS animation, and AJAX.
+jquery can also handle events, perform animation and add ajax support in web applications.
+Like we have button and their click event in js but after some updation, the distinct browser cannot be able to interact smoothly with the client so there's come the topic ECMAScript, using that we are now giving the button functionality which causes click event and giving the button a method how to perform like in this menu bar we have toggle method for button and scroll method for container same as that for the button of form we have click event which does not have to toggle and passing form info.
+
+--ajax--
+The main purpose of Ajax is to improve the speed, performance, and usability of a web application.
+Ajax is used to perform a callback, making a quick round trip to and from the server to save data without posting the entire page back to the server.
+Ajax allows you to make asynchronous calls to a web server.
+This allows the client browser to avoid waiting for all data to arrive before allowing the user to act once more.

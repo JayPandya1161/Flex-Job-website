@@ -1,0 +1,42 @@
+So here we created our website named Flexjob.
+We are group No - 19 representing video implementation of our website.
+This is a Web development project contain HTML, CSS, JAVASCRIPT for the front-end and PHP AND MySQL for the back-end.
+
+
+Now here comes the Objective of the project means what inspires us to make a project like this.
+So this website is introduced as a job recruitment site, and here we discussed what is the main objectives of the project which are shown here.
+project's main theme is to provide job like which type of work you want from the programer and person has to select the specific job they want to program and interact with the company.
+
+
+This is the homepage of our website.
+Here you can see a navigation bar containing some essential website pages.
+We try our best to make it a more user-friendly and interactive website.
+
+
+In the main component, you can see the about page having a welcome message and details about the company.
+
+
+Now in how it works, you can notice we give our user a manual which says how to start hiring and how to go into business.
+
+
+ In the browse job component, you can see there are some jobs for which you can work with their type, duration, budget, and categories.
+You can find jobs with your filtered categories so in which you want to work.
+
+
+Now, on the freelancer page, you can see some freelancers who want to work for the company within their specialization skills, and here are their offers which also you can filter within skills.
+
+
+Here you can see in a company grid how many companies are working with the website and you can see their details and the job they open for freelancers.
+
+
+Then if you are already a part of the website you can log in with your registered email address and password now I am showing you how it works.
+You can have your profile details here.
+
+-----------------------------------------------------------------------
+Here we are taking some company details.
+
+
+Then you can have the company profile, which job they are offering, and as a company executive if you want to post the job you can.
+
+
+That's it. With three members of the group, this is a website we created thank you.
